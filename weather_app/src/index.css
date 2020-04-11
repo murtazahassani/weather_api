@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: url('./assetst/black.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  font-size: larger;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
