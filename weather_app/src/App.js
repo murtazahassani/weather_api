@@ -1,9 +1,11 @@
-import React from 'react';
-import './App.css';
-import Weather from './Component/weather.component'
-import 'bootstrap/dist/css/bootstrap.min.css';
-import 'weather-icons/css/weather-icons.css';
-import Form from './Component/Form.component';
+import React from "react";
+import "./App.css";
+import Form from "./app_component/form.component";
+import Weather from "./app_component/weather.component";
+import "bootstrap/dist/css/bootstrap.min.css";
+
+// git project https://github.com/erikflowers/weather-icons
+import "weather-icons/css/weather-icons.css";
 
 const Api_Key = "429736441cf3572838aa10530929f7cd";
 
